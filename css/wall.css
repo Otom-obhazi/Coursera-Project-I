@@ -1,0 +1,62 @@
+*{
+    margin: 20px;
+}
+
+.one{
+    text-align: center;
+}
+
+.two{
+    background-color: grey;
+    margin: 20px;
+    border: 2px solid black;
+    padding: 2px;
+    font-size: medium;
+    margin-right: 10px;
+    width: 30%;.
+    
+    
+}
+
+.three {
+    display: inline-flex;
+}
+.para {
+    margin-top: 50px;
+}
+
+.chicken{
+    background-color: blue;
+    border: 2px solid black;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: right;
+    margin-top: -3px;
+    margin-right: -3px;
+    float: right;
+}
+
+.beef{
+    background-color: peru;
+    border: 2px solid black;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: right;
+    margin-top: -3px;
+    margin-right: -3px;
+    float: right;
+}
+
+.sushi{
+    background-color:peachpuff;
+    border: 2px solid black;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: right;
+    margin-top: -4px;
+    margin-right: -3px;
+    float: right;
+}
